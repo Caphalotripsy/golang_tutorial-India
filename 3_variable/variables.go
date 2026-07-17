@@ -21,4 +21,3 @@ func main() {
 	fmt.Println("Apakah dia true adam?", adam)
 	fmt.Println("Umurnya", umur)
 	fmt.Println("Sedang belajar bahasa pemrograman", nama)
-}
